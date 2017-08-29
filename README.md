@@ -1,6 +1,6 @@
 # Quasar App
 
-> A Quasar project
+>A mobile application built using quasar just for displaying inspirational quotes
 
 ## Build Setup
 
